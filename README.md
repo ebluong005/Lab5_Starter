@@ -8,3 +8,7 @@ No you would not use unit test for feature that uses frontend, backend, and use 
 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 
 Yes, this is a good candidate for a unit test because it an one component. This can be tested independently by passing strings of various lengths into a function and checking whether it correctly enforces the limit, without needing to involve the rest of the application.
+
+
+[expose](https://ebluong005.github.io/Lab5_Starter/expose.html)
+[explore](https://ebluong005.github.io/Lab5_Starter/explore.html)
